@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "MysticMC-BOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Mystic_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "MysticMC-zVqb.aternos.me",
+    "port": 17847,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I wish i could play properly",
+        "ENJOY MYSTIC MC!",
         "I like to play Minecraft!"
       ]
     },
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1553338666359988225/1wkL8FV0ZZiugIPmaEs8iFdbJigwbci8zwCXiQ8Y5I72p-_-ygyOMCszvK5lc1mZHqe7",
     "events": {
       "connect": true,
       "disconnect": true,
